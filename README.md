@@ -107,14 +107,6 @@ The H3 Metatype Matrix is built for people who want a **holistic, action-oriente
 
 ---
 
-## Screenshots
-
-<p align="center">
-  <img src="https://www.h3test.com/og.png" alt="H3 Metatype Matrix - Personality Test Result" width="600" />
-</p>
-
----
-
 ## Frequently Asked Questions
 
 **What is my metatype?**
